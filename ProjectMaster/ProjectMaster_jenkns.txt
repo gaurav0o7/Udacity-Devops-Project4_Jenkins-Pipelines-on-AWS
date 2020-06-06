@@ -2,7 +2,7 @@ Gaurav Sharma / For Udacity Cloud DevOps Project 4
 
 # Jenkins Pipelines on AWS
 
-Link to GitHub repo: 
+Link to GitHub repo: https://github.com/gaurav0o7/Udacity-Devops-Project4_Jenkins-Pipelines-on-AWS
 
 Screenshots: Included with this text in zip file. Also available in git hub repo. 
 
